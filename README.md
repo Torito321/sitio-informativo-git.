@@ -9,4 +9,6 @@
     * Nombre del autor.
 
     - Samuel Aaron Espino de la Cruz
-
+    
+    **********Próximas mejoras**************
+    Mejorar la compatibilidad con dispositivos que no tengan una GPU.
