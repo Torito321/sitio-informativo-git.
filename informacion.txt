@@ -1,0 +1,13 @@
+    * Objetivo del proyecto.
+	
+	- Mejorar el rendimiento de la realidad virtual en una pc.
+
+    * Público al que va dirigido.
+
+    	- Todos los usuarios que usen Vr
+
+    * Tres características principales.
+
+    	- Mejora el rendimiento.
+	- Flexibilidad con la conectividad de los lentes.
+	- Ayuda a tener una mejor experiencia.
